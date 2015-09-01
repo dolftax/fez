@@ -1,0 +1,14 @@
+## Setup Instructions
+
+- Install npm
+
+```
+dnf install npm
+```
+
+- Install dependencies and start the server
+
+```
+npm install -g http-server
+http-server
+```

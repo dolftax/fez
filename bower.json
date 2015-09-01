@@ -1,0 +1,21 @@
+{
+  "name": "Fez",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dolftax/fez",
+  "authors": [
+    "Jaipradeesh <jaipradeesh@gmail.com>"
+  ],
+  "description": "bower modules for fez",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-dragdrop": "~1.0.11",
+    "bootstrap-material-design": "~0.3.0"
+  }
+}

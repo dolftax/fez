@@ -1,0 +1,20 @@
+{
+  "name": "Fez",
+  "version": "1.0.0",
+  "description": "Fez editor",
+  "dependencies": {
+    "bower": "^1.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node_modules/.bin/bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolftax/fez.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dolftax/fez/issues"
+  },
+  "homepage": "https://github.com/dolftax/fez#readme"
+}

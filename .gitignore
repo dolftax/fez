@@ -1,0 +1,7 @@
+# Log files
+*.log
+
+# Component directories
+bower_components/
+node_modules/
+
